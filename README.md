@@ -19,6 +19,8 @@ Objectives:
 SYSTEM ARCHITECTURE
 ![image](https://github.com/user-attachments/assets/c898d6c8-6525-40b6-9db1-3339961892e4)
 
+
+
 SYSTEM FLOWCHART
 ![Screenshot (1)](https://github.com/user-attachments/assets/aa9ab602-fa3c-43b0-bb1e-32000c7c4d0f)
 
